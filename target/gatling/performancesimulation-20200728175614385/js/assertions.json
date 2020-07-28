@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.basic.PerformanceSimulation",
+  "simulationId": "performancesimulation",
+  "start": 1595958974385,
+  "description": "",
+  "scenarios": ["PerformanceSimulation"],
+  "assertions": [
+
+  ]
+}
